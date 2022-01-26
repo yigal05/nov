@@ -24,3 +24,4 @@ texto.pack()
 boton=tk.Button(text="cambiar texto",command=denuevo).pack()
 raiz.config(background="red")
 raiz.mainloop()
+xd="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
